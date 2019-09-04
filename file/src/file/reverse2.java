@@ -18,4 +18,5 @@ public class reverse2 {
 		}
 			System.out.println(rev+" is the reverse number");
 		}
+	
 }
